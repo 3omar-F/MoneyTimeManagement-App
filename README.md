@@ -12,3 +12,5 @@ It allows you to have a wonderfull money management from cash and cards without 
 
 
 Last section of the app is Automate phone silence, which allows you to scedule the time which you want to turn your phone into silent mode automatically and unmute it when the period ends.
+
+  Contact me to get demo access..
